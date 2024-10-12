@@ -25,7 +25,6 @@ function nombreEdad() {
 }
    // while (nombre.length <3) {
       //  nombre = prompt("Tu nombre es muy corto")}
-      window.onload = nombreEdad;
 
 
 
@@ -42,3 +41,4 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
     })
 })
+window.onload = nombreEdad;
